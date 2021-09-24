@@ -1,0 +1,19 @@
+body
+{
+background-color: cyan;
+text-align: center;
+}
+
+h3 
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#div 
+{
+    border: 2px dashed black;
+    width: 640px;
+    height: 400px;
+    text-align: center; 
+    margin-top: 15px;
+}
